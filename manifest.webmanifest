@@ -1,0 +1,14 @@
+{
+  "name": "Flappy Bird",
+  "short_name": "Flappy",
+  "description": "Ein Flappy-Bird-Klon für den Browser – optimiert für mobile Geräte.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0d1b1e",
+  "theme_color": "#4ec0ca",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
